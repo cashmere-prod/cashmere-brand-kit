@@ -1,7 +1,7 @@
 # Cashmere Labs Brand Kit
 
 <p align="center">
-  <img src="cashmere-logos/Dark/Cashmere-logo-200px.png" alt="Cashmere Labs Logo" width="200"/>
+  <img src="cashmere-logos/Light/Cashmere-logo-200px.png" alt="Cashmere Labs Logo" width="200"/>
 </p>
 
 <p align="center">
